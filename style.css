@@ -10,10 +10,20 @@ header {
     margin-bottom: 20px;
 }
 
-button {
+#menu button {
     padding: 10px 20px;
+    margin: 5px;
     background-color: #007bff;
     color: white;
     border: none;
     cursor: pointer;
+}
+
+#contenido {
+    margin-top: 20px;
+}
+
+#contenido input, #contenido button {
+    margin: 5px;
+    padding: 8px;
 }
